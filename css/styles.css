@@ -48,7 +48,7 @@ a:hover {
   /*****************************CLASS SELECTORS**************************/
 
   .top-container {
-    background-image: url("/images/mountain.png");
+    background-image: url("images/mountain.png");
     background-color: #cccccc; /* Used if the image is unavailable */
     height: 800px; /* You must set a specified height */
     background-position: center; /* Center the image */
